@@ -1,6 +1,6 @@
 # Angular-Signals-Theme
 
-## Angular Signal as Reactive theme
+## Angular Signal as Reactive theme with stand-alone Components
 
 - Signals Rule! Re-imagine Dynamic Theming with Angular Signals
 - Dynamic Themes, Simplified: The Power of Angular Signals. Upgrade easily your theming game to Reactive Style Changes with Angular Signals
