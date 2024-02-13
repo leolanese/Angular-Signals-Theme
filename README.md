@@ -10,4 +10,4 @@
 
 
 ## Demo
-[[Angular Signal Theme]([https://stackblitz.com/edit/stackblitz-starters-f2lzzc]
+[Angular Signal Theme]([https://stackblitz.com/edit/stackblitz-starters-f2lzzc]
