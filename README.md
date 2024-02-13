@@ -2,8 +2,8 @@
 
 ## Signal as Reactive
 
-- Signals Rule! Say Goodbye to ngClass for Dynamic Themes. Re-imagine Dynamic Theming with Angular Signals
-- Dynamic Themes, Simplified: The Power of Angular Signals. Upgrade Your Theming Game to Reactive Style Changes with Angular Signals
+- Signals Rule! Re-imagine Dynamic Theming with Angular Signals
+- Dynamic Themes, Simplified: The Power of Angular Signals. Upgrade easily your theming game to Reactive Style Changes with Angular Signals
 - Simplify and Enhance Your Styling: Go Reactive with Angular Signals. Boost Theme Flexibility: Leverage Angular Signals for Dynamic Styling
 
 ## Goal
