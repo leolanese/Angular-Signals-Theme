@@ -1,0 +1,17 @@
+.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.light-theme .container {
+  border: 1px solid #ccc;
+}
+
+.light-theme h1 {
+  color: #2980b9;
+}
+
+.light-theme button {
+  background-color: #3498db;
+  color: #ffffff;
+}

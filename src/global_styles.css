@@ -1,0 +1,6 @@
+/* Add application styles & imports to this file! */
+.container {
+  height: 400px;
+  border: 1px solid #ccc;
+  font-size: large;
+}
